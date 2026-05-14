@@ -1,4 +1,4 @@
-# 
+# premium MEV Bot for liquidity sniper bot | snipe-list-management & trailing-stop is the best liquidity sniper bot, featuring snipe-list-management and trailing-stop. Fast, smart,
 
 
 
